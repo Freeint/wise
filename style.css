@@ -10,7 +10,6 @@
  }
 .wallet-container
 {
-    width: 100%;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/R.png);
     width: 550px;
     color: #fff;
